@@ -55,5 +55,27 @@ To delete a folder : rmdir test
 
 20) How to push to github: git push https//www.(copy the path) master
 
+21) To name a clone link: git remote add origin(name) https://github.com/muchirijane/git_one.git
+
+22) To push it to github again: git push origin master(name of the branch)
+
+23) how to clone from github: git clone https://github.com/muchirijane/git_prac.git
+
+24)To add the clone file in github: git push origin master
+
+25) To make the clone move to master branch: git pull origin master
+
+26) How to push a branch to master branch: git push origin index.html(name of the branch)
+
+27) How to contribute in a open source from github.
+     1) Clone project: git clone  https://github.com/muchirijane/git_prac.git
+    2)  Add code , save and modify the file: git add .
+    3) Commit the changes: git commit -m “Added some js code”
+    4) Push it to the master branch: git push origin master
+
+
+
+
+
 
 */
